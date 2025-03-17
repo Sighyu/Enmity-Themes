@@ -12,6 +12,10 @@
             "#7030A0",
             "#7030A0"
         ],
+	"PANEL_BG": [
+		"#7030A0",
+		"#7030A0"
+	]
         "ACTIVITY_CARD_BACKGROUND": [
             "#FF0000",
             "#FF0000"
